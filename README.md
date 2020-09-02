@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Create a JavaScript function triggered by an event
+- Create a JavaScript function triggered by an event 
 
 ## Introduction
 
